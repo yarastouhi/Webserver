@@ -1,7 +1,7 @@
 # Multithreaded Web Server for Bank Transfers
 
 ## Overview
-bank-webserver is a **multithreaded web server** built in **Java** to handle **simultaneous bank transactions** securely. It processes **fund transfers**, ensures **data integrity**, and prevents **race conditions** using synchronization techniques.
+This project is a **multithreaded web server** built in **Java** to handle **simultaneous bank transactions** securely. It processes **fund transfers**, ensures **data integrity**, and prevents **race conditions** using synchronization techniques.
 
 ## Features
 - **Multithreading:** Handles multiple client requests concurrently.
