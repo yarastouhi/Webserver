@@ -1,4 +1,4 @@
-# Multithreaded Web Server for Bank Transfers
+# Web Server for Bank Transactions
 
 ## Overview
 This project is a **multithreaded web server** built in **Java** to handle **simultaneous bank transactions** securely. It processes **fund transfers**, ensures **data integrity**, and prevents **race conditions** using synchronization techniques.
